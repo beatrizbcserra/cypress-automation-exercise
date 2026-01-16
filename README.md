@@ -67,4 +67,3 @@ Durante o desenvolvimento, enfrentei e resolvi:
 ## 📝 Licença
 
 Todos os direitos reservados © 2025 [Beatriz Serra]
-```
