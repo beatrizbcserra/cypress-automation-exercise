@@ -61,12 +61,12 @@ Durante o desenvolvimento, enfrentei e resolvi:
 
 ## 👨‍💻 Autor
 
-[Seu Nome]  
-[LinkedIn](seu-link) | [GitHub](seu-link)
+[Beatriz Serra]  
+[LinkedIn](www.linkedin.com/in/beatriz-barbosa-costa-serra-b97728391) | [GitHub](https://github.com/beatrizbcserra)
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT.
+Todos os direitos reservados © 2025 [Beatriz Serra]
 ```
 
 ### 3. **Crie um .gitignore:**
@@ -80,26 +80,3 @@ cypress.config.js.bak
 
 ---
 
-## 📸 Para o LinkedIn:
-
-### Post sugerido:
-```
-🚀 Novo Projeto no Portfólio! 🧪
-
-Acabei de concluir um projeto de automação de testes E2E utilizando Cypress!
-
-🎯 O que foi feito:
-✅ Automação completa do fluxo de cadastro de usuários
-✅ Implementação de Data-Driven Testing com 5 usuários diferentes
-✅ Geração dinâmica de e-mails únicos para evitar duplicatas
-✅ Tratamento robusto de timeouts e sincronização
-
-💡 Principais aprendizados:
-- Estratégias de espera inteligentes no Cypress
-- Gerenciamento de estado entre testes
-- Debugging de problemas intermitentes
-- Boas práticas em automação de testes
-
-🔗 Código disponível no GitHub: [seu-link]
-
-#Cypress #AutomationTesting #QA #JavaScript #Testing #E2E
