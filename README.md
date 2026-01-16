@@ -59,7 +59,7 @@ Durante o desenvolvimento, enfrentei e resolvi:
 2. **Timeouts intermitentes** - Ajustei estratégia de espera para elementos específicos
 3. **Gerenciamento de cache** - Configurei limpeza adequada entre testes
 
-## 👨‍💻 Autor
+## 👨‍💻 Autora
 
 [Beatriz Serra]  
 [LinkedIn](https://www.linkedin.com/in/beatriz-barbosa-costa-serra-b97728391/) | [GitHub](https://github.com/beatrizbcserra)
@@ -68,15 +68,3 @@ Durante o desenvolvimento, enfrentei e resolvi:
 
 Todos os direitos reservados © 2025 [Beatriz Serra]
 ```
-
-### 3. **Crie um .gitignore:**
-```
-node_modules/
-cypress/videos/
-cypress/screenshots/
-.DS_Store
-cypress.config.js.bak
-```
-
----
-
