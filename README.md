@@ -3,6 +3,8 @@
 Projeto de automação de testes E2E utilizando Cypress para o site [Automation Exercise](https://automationexercise.com/).
 
 ![Cypress Tests](https://github.com/beatrizbcserra/cypress-automation-exercise/actions/workflows/cypress-tests.yml/badge.svg)
+[![Cypress](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🎯 Objetivo
 
