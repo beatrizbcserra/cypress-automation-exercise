@@ -8,7 +8,7 @@ Automatizar o processo de cadastro de múltiplos usuários, validando a funciona
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Cypress** - Framework de testes E2E
+- **Cypress** - Framework de testes E2E https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
 - **JavaScript** - Linguagem de programação
 - **Data-Driven Testing** - Testes com massa de dados (fixtures)
 
