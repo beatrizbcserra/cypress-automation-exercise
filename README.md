@@ -62,7 +62,7 @@ Durante o desenvolvimento, enfrentei e resolvi:
 ## 👨‍💻 Autor
 
 [Beatriz Serra]  
-[LinkedIn](www.linkedin.com/in/beatriz-barbosa-costa-serra-b97728391) | [GitHub](https://github.com/beatrizbcserra)
+[LinkedIn](https://www.linkedin.com/in/beatriz-barbosa-costa-serra-b97728391/) | [GitHub](https://github.com/beatrizbcserra)
 
 ## 📝 Licença
 
