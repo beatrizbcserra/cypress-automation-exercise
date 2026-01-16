@@ -1,0 +1,24 @@
+{
+  "name": "cypress-automation-exercise",
+  "version": "1.0.0",
+  "description": "Automação de testes E2E com Cypress para o site Automation Exercise",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing",
+    "e2e",
+    "qa"
+  ],
+  "author": "Beatriz Bcserra",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
