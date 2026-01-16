@@ -1,5 +1,3 @@
-# cypress-automation-exercise
-
 # 🧪 Automação de Testes - Automation Exercise
 
 Projeto de automação de testes E2E utilizando Cypress para o site [Automation Exercise](https://automationexercise.com/).
