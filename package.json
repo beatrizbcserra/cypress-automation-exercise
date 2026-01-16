@@ -16,8 +16,8 @@
     "e2e",
     "qa"
   ],
-  "author": "Beatriz Bcserra",
-  "license": "MIT",
+  "author": "Beatriz Serra",
+  "license": "Beatriz Serra",
   "devDependencies": {
     "cypress": "^13.6.0"
   }
