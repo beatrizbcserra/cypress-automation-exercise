@@ -2,6 +2,8 @@
 
 Projeto de automação de testes E2E utilizando Cypress para o site [Automation Exercise](https://automationexercise.com/).
 
+![Cypress Tests](https://github.com/beatrizbcserra/cypress-automation-exercise/actions/workflows/cypress-tests.yml/badge.svg)
+
 ## 🎯 Objetivo
 
 Automatizar o processo de cadastro de múltiplos usuários, validando a funcionalidade de registro do sistema.
